@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+.sidebar__item {
+    color: #fff !important;
+}
+ .sidebar__item.active{
+
+    background-color: #355DFF !important;
+ }
+ .sidebar__item .sidebar__text{
+    font-family: 'Inter', sans-serif !important;
+ }
